@@ -1,3 +1,7 @@
 en:
   table_of_contents: "table of contents"
   insert_table_of_contents: "Insert table of contents"
+  theme_metadata:
+    description: The minimum trust level a user must have in order to see the TOC button in the composer
+    composer_toc_text:
+      default: This topic will contain a table of contents

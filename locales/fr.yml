@@ -1,0 +1,7 @@
+fr:
+  table_of_contents: "table des matières"
+  insert_table_of_contents: "Ajouter la table des matières"
+  theme_metadata:
+    description: Le niveau de confiance minimum requis pour afficher le bouton d'ajout de la table des matières dans l'éditeur
+    composer_toc_text:
+      default: Ce sujet contiendra une table des matières
